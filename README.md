@@ -1,3 +1,5 @@
+# Graphify
+
 This repository provides implementations of fundamental graph algorithms in Java. These algorithms are useful for various graph-related problems in computer science and network analysis.
 
 Algorithms Included:
